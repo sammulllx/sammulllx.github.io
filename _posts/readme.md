@@ -1,3 +1,19 @@
+---
+title:C语言笔记
+author: sammul
+date: 2022-08-08 11:33:00 +0800
+categories: [Blogging, Demo]
+tags: [typography]
+math: true
+mermaid: true
+image:
+  path: /commons/devices-mockup.png
+  width: 800
+  height: 500
+  alt: Responsive rendering of Chirpy theme on multiple devices.
+---
+
+
 # C语言判断题
 
 ------
